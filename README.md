@@ -14,3 +14,6 @@
   ```
   
 * TF_prediction
+
+
+These should build automatically on dockerhub, thanks to the neurogenomics-build bot user
